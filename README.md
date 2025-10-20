@@ -53,15 +53,7 @@ Connected to an **ASP.NET Core Web API** backend with **Entity Framework** for d
 - **LinkedIn:** [linkedin.com/in/abdullahrezk03](https://www.linkedin.com/in/abdullahrezk03/)  
 - **Email:** [abdullahelkashlan@gmail.com](mailto:abdullahelkashlan@gmail.com)
 
----
 
-### 📈 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahRezk&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRezk&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
 
 ---
 
