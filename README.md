@@ -24,18 +24,12 @@ SQL Server,PostgreSQL ,Postman,SWagger,Scalar Git,Github
 
 ### 🚀 Featured Projects
 
-🗳️ Survey Basket — Online Survey Management System
-A survey management platform that allows administrators to create, manage, and analyze surveys while enabling users to participate and submit votes securely.
-Developed with ASP.NET Core Web API following a 3-Tier Architecture (API, Business, Data Access Layers) and built using Entity Framework Core with clean architecture principles.
-📎 Repository: Survey Basket Repository
-📄 Description: Implements authentication and authorization, role & permission management, poll and question handling, voting system, pagination, background jobs using Hangfire, and clean separation of concerns for scalability and maintainability.
----
+#### 🗳️ Survey Basket — Online Survey Management System  
+A **survey management platform** that allows administrators to create, manage, and analyze surveys while enabling users to participate and submit votes securely.  
+Built with **ASP.NET Core Web API** following a **3-Tier Architecture (API, Business, Data Access Layers)** and powered by **Entity Framework Core** for database operations.  
 
-#### 🧠 SmartBite — Graduation Project
-A **nutrition assistant** that helps users organize and manage their meals based on their health conditions or personal goals.  
-Built with **Flutter** (frontend) and **ASP.NET Core Web API** (backend) using **ADO.NET** for database operations.  
-📎 **Repository:** [SmartBite Repository](https://github.com/AbdullahREzk2/Smart_Bite)  
-📄 **Description:** Integrates intelligent meal recommendation logic and supports user goal tracking.
+📎 **Repository:** [Survey Basket Repository](https://github.com/AbdullahREzk2/Survey-Basket)  
+📄 **Description:** Implements secure authentication and authorization, role & permission management, poll and question management, voting functionality, pagination, and background job processing using Hangfire, with a clean and scalable architecture.
 
 ---
 
@@ -47,6 +41,15 @@ Developed with **React.js** for the frontend and **ASP.NET Core Web API** using 
 📄 **Description:** Features secure authentication, product management, and a responsive user interface.
 
 ---
+
+#### 🧠 SmartBite — Graduation Project
+A **nutrition assistant** that helps users organize and manage their meals based on their health conditions or personal goals.  
+Built with **Flutter** (frontend) and **ASP.NET Core Web API** (backend) using **ADO.NET** for database operations.  
+📎 **Repository:** [SmartBite Repository](https://github.com/AbdullahREzk2/Smart_Bite)  
+📄 **Description:** Integrates intelligent meal recommendation logic and supports user goal tracking.
+
+---
+
 
 
 ### 📫 Contact
