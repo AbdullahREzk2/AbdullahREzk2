@@ -18,7 +18,7 @@ C#, Object-Oriented Programming (OOP)
 ASP.NET Core Web API, Entity Framework, ADO.NET, LINQ  
 
 **Databases & Tools:**  
-SQL Server, Postman, Git  
+SQL Server,PostgreSQL ,Postman,SWagger,Scalar Git,Github
 
 ---
 
