@@ -24,6 +24,13 @@ SQL Server,PostgreSQL ,Postman,SWagger,Scalar Git,Github
 
 ### 🚀 Featured Projects
 
+🗳️ Survey Basket — Online Survey Management System
+A survey management platform that allows administrators to create, manage, and analyze surveys while enabling users to participate and submit votes securely.
+Developed with ASP.NET Core Web API following a 3-Tier Architecture (API, Business, Data Access Layers) and built using Entity Framework Core with clean architecture principles.
+📎 Repository: Survey Basket Repository
+📄 Description: Implements authentication and authorization, role & permission management, poll and question handling, voting system, pagination, background jobs using Hangfire, and clean separation of concerns for scalability and maintainability.
+---
+
 #### 🧠 SmartBite — Graduation Project
 A **nutrition assistant** that helps users organize and manage their meals based on their health conditions or personal goals.  
 Built with **Flutter** (frontend) and **ASP.NET Core Web API** (backend) using **ADO.NET** for database operations.  
@@ -41,13 +48,6 @@ Developed with **React.js** for the frontend and **ASP.NET Core Web API** using 
 
 ---
 
-#### 🏥 Medical Center — Desktop Application
-A **Windows Forms desktop application** for managing medical appointments, patients, and doctors.  
-Connected to an **ASP.NET Core Web API** backend with **Entity Framework** for data management.  
-📎 **Repository:** [Medical Center Repository](https://github.com/AbdullahREzk2/Medical-Center)  
-📄 **Description:** Enables efficient appointment scheduling and patient record handling for clinics and small medical centers.
-
----
 
 ### 📫 Contact
 - **LinkedIn:** [linkedin.com/in/abdullahrezk03](https://www.linkedin.com/in/abdullahrezk03/)  
