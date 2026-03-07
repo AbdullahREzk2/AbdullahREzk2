@@ -117,13 +117,12 @@ I specialize in **backend development** using **ASP.NET Core Web API**, with a s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahREzk2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahREzk2&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+![](https://img.shields.io/github/followers/AbdullahREzk2?style=for-the-badge&color=512BD4&logo=github&label=Followers)
+![](https://img.shields.io/github/stars/AbdullahREzk2?style=for-the-badge&color=512BD4&logo=github&label=Stars)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahREzk2&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbdullahREzk2/AbdullahREzk2/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 ---
