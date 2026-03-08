@@ -55,6 +55,7 @@ I specialize in **backend development** using **ASP.NET Core Web API**, with a s
 ![CQRS](https://img.shields.io/badge/CQRS-Pattern-512BD4?style=for-the-badge)
 ![Dependency Injection](https://img.shields.io/badge/Dependency-Injection-512BD4?style=for-the-badge)
 ![DTO Pattern](https://img.shields.io/badge/DTO-Pattern-512BD4?style=for-the-badge)
+![MediatR](https://img.shields.io/badge/MediatR-Library-512BD4?style=for-the-badge)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -79,6 +80,7 @@ I specialize in **backend development** using **ASP.NET Core Web API**, with a s
 - Profile image upload via **Cloudinary**
 - Structured logging with **Serilog**
 - Health checks & IP-based rate limiting
+- CQRS pattern with **MediatR** for clean request/response pipeline
 - Deployed on **ASPMonster**
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/AbdullahREzk2/Survey-Basket)
