@@ -31,8 +31,7 @@ I specialize in **backend development** using **ASP.NET Core Web API**, with a s
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Principles-512BD4?style=for-the-badge)
 ![LINQ](https://img.shields.io/badge/LINQ-Query-512BD4?style=for-the-badge)
-![xUnit](https://img.shields.io/badge/xUnit-Testing-512BD4?style=for-the-badge)
-![Moq](https://img.shields.io/badge/Moq-Mocking-512BD4?style=for-the-badge)
+
 
 ### Frameworks & Technologies
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -45,6 +44,10 @@ I specialize in **backend development** using **ASP.NET Core Web API**, with a s
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-Image%20Storage-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![FluentValidation](https://img.shields.io/badge/FluentValidation-Validation-red?style=for-the-badge)
 ![Mapster](https://img.shields.io/badge/Mapster-Mapping-orange?style=for-the-badge)
+![xUnit](https://img.shields.io/badge/xUnit-Testing-512BD4?style=for-the-badge)
+![Moq](https://img.shields.io/badge/Moq-Mocking-512BD4?style=for-the-badge)
+![FluentAssertions](https://img.shields.io/badge/FluentAssertions-Assertions-512BD4?style=for-the-badge)
+
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -83,7 +86,7 @@ I specialize in **backend development** using **ASP.NET Core Web API**, with a s
 - Structured logging with **Serilog**
 - Health checks & IP-based rate limiting
 - CQRS pattern with **MediatR** for clean request/response pipeline
-- **62 unit tests** covering Polls and Auth features (xUnit + Moq)
+- **62 unit tests** covering Polls and Auth features (xUnit + Moq + FluentAssertions)
 - Deployed on **ASPMonster**
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/AbdullahREzk2/Survey-Basket)
