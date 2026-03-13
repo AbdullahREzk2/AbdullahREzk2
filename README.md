@@ -76,6 +76,7 @@ I specialize in **backend development** using **ASP.NET Core Web API**, with a s
 
 ### 🗳️ SurveyBasket — Online Survey Management System
 > A production-ready polling platform with a strong emphasis on clean architecture and real-world business logic.
+# [![Build and Test](https://github.com/AbdullahREzk2/Survey-Basket/actions/workflows/ci.yml/badge.svg)](https://github.com/AbdullahREzk2/Survey-Basket/actions/workflows/ci.yml)
 
 **Highlights:**
 - 3-Layer Architecture (API / BLL / DAL)
